@@ -2,7 +2,7 @@ import ozobot
 
 robot = ozobot.get_robot()
 
-vitesse = None
+
 
 
 
